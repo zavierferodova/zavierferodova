@@ -5,3 +5,5 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zavierferodova&theme=nightowl&title_color=0177fe&text_color=fff)
 
 <a href="https://www.instagram.com/zavierferodova" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zavierferodova.visitor-badge)
