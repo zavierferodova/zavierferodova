@@ -19,6 +19,7 @@ Stuff about me :
 ### Tech Stack
 
 <p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffd03d?logo=Python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?logo=JavaScript&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white"/>
   <img alt="ReactJS" src="https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=white"/>
@@ -30,7 +31,8 @@ Stuff about me :
   <img alt="Android" src="https://img.shields.io/badge/-Android-2edf85?logo=Android&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ec2025?logo=java&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f1850b?logo=Kotlin&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ffd03d?logo=Python&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white"/>
 </p>
 
 ### Reach Me
