@@ -1,4 +1,4 @@
-![Header Image](https://cardivo.vercel.app/api?name=Zavier%20Ferodova&description=Let%27s%20Make%20Better%20Future&image=https://raw.githubusercontent.com/zavierferodova/zavierferodova/master/image/github-profile.webp&instagram=zavierferodova&linkedin=Zavier%20Ferodova%20Al%20Fitroh&pattern=fallingTriangles&backgroundColor=%230075FF&colorPattern=%23fff&fontColor=%23fff&iconColor=%23fff&opacity=0.1)
+![Header Image](https://cardivo.vercel.app/api?name=Zavier%20Ferodova&description=Let%27s%20Make%20Better%20Future&image=https://raw.githubusercontent.com/zavierferodova/zavierferodova/main/image/github-profile.webp&instagram=zavierferodova&linkedin=Zavier%20Ferodova%20Al%20Fitroh&pattern=fallingTriangles&backgroundColor=%230075FF&colorPattern=%23fff&fontColor=%23fff&iconColor=%23fff&opacity=0.1)
 
 ## Hello Everyone I'm Zavier 👋
 
