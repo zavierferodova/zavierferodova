@@ -19,28 +19,28 @@ Stuff about me :
 ### Tech Stack
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ffd03d?logo=Python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?logo=JavaScript&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white"/>
-  <img alt="ReactJS" src="https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=white"/>
-  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-494949?logo=next.js&logoColor=white"/>
-  <img alt="php" src="https://img.shields.io/badge/-php-777bb3?logo=php&logoColor=white"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffd03d?logo=Python&logoColor=white&style=for-the-badge"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?logo=JavaScript&logoColor=white&style=for-the-badge"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white&style=for-the-badge"/>
+  <img alt="ReactJS" src="https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=white&style=for-the-badge"/>
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-494949?logo=next.js&logoColor=white&style=for-the-badge"/>
+  <img alt="php" src="https://img.shields.io/badge/-php-777bb3?logo=php&logoColor=white&style=for-the-badge"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=for-the-badge"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white&style=for-the-badge"/>
   </br>
-  <img alt="Android" src="https://img.shields.io/badge/-Android-2edf85?logo=Android&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ec2025?logo=java&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f1850b?logo=Kotlin&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white"/>
+  <img alt="Android" src="https://img.shields.io/badge/-Android-2edf85?logo=Android&logoColor=white&style=for-the-badge"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ec2025?logo=openjdk&logoColor=white&style=for-the-badge"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f1850b?logo=Kotlin&logoColor=white&style=for-the-badge"/>
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=for-the-badge"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=for-the-badge"/>
 </p>
 
 ### Reach Me
 <p>
   <a href="https://instagram.com/zavierferodova" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/zavierferodova/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
